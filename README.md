@@ -1,4 +1,4 @@
-Our files are composed of
+Our files inside the Reproducible_Research_Group1_Assignment2 folder are composed of
 - a CSV data with 4 datasets of x and y pairs
 - a .ipynb file
 - a summary of the sections of the paper we want to make reproducible (plus DOI to the original paper) as PDF
