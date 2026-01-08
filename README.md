@@ -12,3 +12,4 @@ Anscombe1973_Makefile.zip file:
 
 Here you can run our data with a Makefile.
 There is a README.md inside it to guide you through the process on how to run it.
+The Graphs.zip file is a previous version of the Makefile.
