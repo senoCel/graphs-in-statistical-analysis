@@ -8,7 +8,7 @@ HOW TO RUN THE Datasetx,y-Graphs.ipynb file:
 I used Pycharm on a Linux machine. On Windows, you can open the file with Visual Code Studio or Jupyter Notebook. For MacOS, Jupyter works as well.
 Just open the Datasetx,y-Graphs.ipynb file with the programming environment. It can be run instantly, usually by clicking on a green arrow for "Run".
 
-Graphs.ZIP file:
+Anscombe1973_Makefile.zip file:
 
 Here you can run our data with a Makefile.
 There is a README.md inside it to guide you through the process on how to run it.
